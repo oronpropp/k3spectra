@@ -1,5 +1,5 @@
 # k3spectra
-Magma code related to the paper [*Constructing explicit K3 spectra*](https://math.mit.edu/research/undergraduate/urop-plus/documents/2017/Propp.pdf), by Oron Y. Propp.
+Magma code related to the paper [*Constructing explicit K3 spectra*](https://arxiv.org/abs/1810.08953), by Oron Y. Propp.
 
 ~~~~
 Copyright (c) 2018 by Oron Y. Propp.
